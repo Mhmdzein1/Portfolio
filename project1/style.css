@@ -101,9 +101,6 @@ p{
 .prj{
     margin-top: 20px;
     
-
-    
-
 }
 #sp{
     font-size: 60px;
@@ -118,9 +115,7 @@ p{
 #tasks{
     width: 1370px;
     height: 500px;
-    position: relative;
-
-    
+    position: relative; 
 }
 
 #tasks li{
@@ -128,16 +123,10 @@ p{
      padding-top: 20px;
      
 }
-
-
-
-
 #aimg{
     height: 300px;
     width: 400px;
     position: absolute;
     top: 0;
-    right: 0;
-    
-    
+    right: 0; 
 }
