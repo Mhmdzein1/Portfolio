@@ -102,14 +102,16 @@ p{
     margin-top: 20px;
     
 }
-#sp{
+.sp{
     font-size: 60px;
     font-weight: bold;
     text-align: center;
+    margin-top: 100px;
    
 }
 #title{
-    color: black;text-align: center
+    color: black;
+    text-align: center
 }
 
 #tasks{
@@ -129,4 +131,27 @@ p{
     position: absolute;
     top: 0;
     right: 0; 
+}
+#ContactUs{
+    height: 745px;
+    border: .1px solid black;
+    background-image: url(images/bck.jpg);
+background-size: cover;
+
+}
+#contact{
+    margin-top: 40px;
+
+}
+#cntct{
+    background-color: white;
+    height: 320px;
+    width: 1000px;
+    margin-left: 250px;    margin-top: 120px;
+
+}
+.cut{
+    font-size: 35px;
+    padding: 10px;
+    padding-bottom: 20px;
 }
