@@ -113,24 +113,30 @@ p{
     color: black;
     text-align: center
 }
-
+#flex{
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+    margin-top: 0px;
+    }
 #tasks{
-    width: 1370px;
+    width: 800px;
     height: 500px;
-    position: relative; 
 }
 
 #tasks li{
-     font-size:25px;
-     padding-top: 20px;
+     font-size:28px;
+     padding-bottom: 15px;
      
 }
+#cntai{
+    margin-right: 70px;
+    
+    }
 #aimg{
     height: 300px;
     width: 400px;
-    position: absolute;
-    top: 0;
-    right: 0; 
+   
 }
 #ContactUs{
     height: 745px;
