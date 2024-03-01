@@ -116,8 +116,7 @@ p{
 #flex{
     display: flex;
     justify-content: space-between;
-    box-sizing: border-box;
-    margin-top: 0px;
+    
     }
 #tasks{
     width: 800px;
