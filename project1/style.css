@@ -160,3 +160,6 @@ background-size: cover;
     padding: 10px;
     padding-bottom: 20px;
 }
+.cut a{
+    color: black;
+}
